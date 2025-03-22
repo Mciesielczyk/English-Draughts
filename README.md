@@ -17,7 +17,7 @@ This is a simple Checkers (Draughts) game implemented using C# and WPF. The game
 
 ## Issues:
 - The AI feature for suggesting moves is not fully functional and has not been implemented correctly.
-
+(nowy-branch)
 
 ![image](https://github.com/user-attachments/assets/c4a543d8-a209-47f5-b15c-8838cdbd13b4)
 
